@@ -108,8 +108,7 @@ del nodo. Anote los resultados
 
 5. VIDEO
 
-
-
+https://youtu.be/y8H25Ha8fn8
 
 6. CONCLUSIONES
 
