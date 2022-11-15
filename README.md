@@ -62,7 +62,7 @@ del nodo. Anote los resultados
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
-
+![image](https://user-images.githubusercontent.com/116781677/201845781-e2c1318c-e47b-4f76-b622-12701fd24d17.png)
 
 5. VIDEO
 
