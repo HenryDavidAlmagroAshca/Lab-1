@@ -2,11 +2,53 @@
 
 
 1. OBJETIVOS
+  
+       Objetivo General
 
+Indentificar de manera correcta en que situaciones se utiliza la ley de voltajes y corrientes de Kirchhoff
 
+       Objetivos Especificos
+
+Resolver e identificar incognitas de tipo voltaje e intensidad aplicando leyes de Kirchhoff segun el saco que lo amerite.
+
+Identificar circuitos en serie y paralelo.
+
+Identificar las formulas relacionadas con voltaje, resistencia e intensidad de corriente.
 
 2. MARCO TEÓRICO 
 
+Las leyes de Kirchhoff
+
+Las leyes de Kirchhoff del voltaje y la corriente están en el corazón del análisis de circuitos, tenemos el conjunto de herramientas básicas que necesitamos para comenzar a analizar circuitos. 
+
+La ley de corriente de Kirchhoff
+
+¿Qué son las leyes de Kirchhoff?
+
+En el análisis de circuitos eléctricos no suele ser suficiente con emplear la ley de Ohm, para ello se acude a las leyes de Kirchhoff que complementan el análisis de circuitos como una herramienta eficaz para analizar y resolver una gran variedad de circuitos eléctricos. Las leyes de Kirchhoff se llaman así en honor al físico alemán Gustav Robert Kirchhoff quien introdujo la ley de corriente (o primera ley de Kirchhoff) y ley de tensión (o segunda ley de Kirchhoff).
+
+Concepto: La suma de todas las corrientes que fluyen hacia un nodo es igual a la suma de las corrientes que salen del nodo
+Todas las corrientes están en miliamperes mA
+![image](https://user-images.githubusercontent.com/116781677/201862585-0cae5ba9-d763-4b47-942e-5f854f2ebbd6.png)
+
+Las corrientes en un nodo
+
+El esquema a continuación muestra cuatro corrientes de rama que fluyen dentro y fuera de un nodo distribuido. Las distintas corrientes están en miliamperes mA, Una de las corrientes, es desconocida.
+![image](https://user-images.githubusercontent.com/116781677/201862962-e18b3d09-552c-4b2b-9181-3d3d3ff74c80.png)
+![image](https://user-images.githubusercontent.com/116781677/201863309-107d0c5b-dfbc-4a83-9051-0d8a0835813d.png)
+
+Propiedades: 
+
+Puedes trazar una malla que comience en cualquier nodo. Si caminas alrededor de la malla y terminas en el nodo inicial, la suma de los voltajes de la malla es igual a cero.
+
+Puedes recorrer la malla en cualquier dirección y la ley de voltaje de Kirchhoff conserva su validez.
+
+Si un circuito tiene múltiples mallas, la ley de voltaje de Kirchhoff es válida para cada una.
+
+Ley de voltaje de Kirchhoff
+
+Concepto: La suma de subidas de voltaje es igual a la suma de bajadas de voltaje.
+![image](https://user-images.githubusercontent.com/116781677/201862523-eec7759b-69b4-4bc4-b9ee-4b43c5e7eebc.png)
 
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
@@ -71,8 +113,13 @@ del nodo. Anote los resultados
 
 6. CONCLUSIONES
 
-
-
+Se denota la importancia de la utilizacion de las leyes de Kirchhoff siento fundamentales para identificar medidas de voltaje, corriente e incluso resistencia en circuitos que por el momento han sido cerrados.
+El conocer cada formula nos dara una ventaja significativa al momento de la resolucion de ejercicios relacionados con circuitos en paralelo, en serie o hasta mixtos.
 
 7. BIBLIOGRAFÍA
+
+McAllister, W. (s.f.). Khan Academy. Recuperado el Noviembre de 2022, de Las leyes de Kirchhoff: https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws
+
+Mecatronica Latam. (22 de Abril de 2021). MecatronicaLATAM. Recuperado el Noviembre de 2022, de Leyes de Kirchhoff: https://www.mecatronicalatam.com/es/tutoriales/teoria/leyes-de-kirchhoff/
+
 
